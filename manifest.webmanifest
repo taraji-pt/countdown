@@ -1,0 +1,19 @@
+{
+  "name": "Countdown — Every Second Counts",
+  "short_name": "Countdown",
+  "lang": "pt-PT",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101316",
+  "theme_color": "#101316",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
